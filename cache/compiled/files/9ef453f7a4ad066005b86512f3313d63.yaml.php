@@ -1,0 +1,34 @@
+<?php
+return [
+    '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
+    'filename' => 'C:/xampp/htdocs/latitude/user/accounts/laurens.yaml',
+    'modified' => 1528076084,
+    'data' => [
+        'email' => 'laurens.dumon@gmail.com',
+        'fullname' => 'Laurens Dumon',
+        'title' => 'Godemperor',
+        'state' => 'enabled',
+        'access' => [
+            'admin' => [
+                'super' => 'true',
+                'login' => 'true',
+                'themes' => 'false'
+            ],
+            'site' => [
+                'login' => 'true'
+            ]
+        ],
+        'hashed_password' => '$2y$10$ZbAE3sE1KkMf18x5iCE6xevaazAu34cNrT0Gl54IfjvYwC89VapPC',
+        'language' => 'en',
+        'twofa_enabled' => false,
+        'twofa_secret' => 'C6AIRWADG76X7ZCBUNRMC32CLEF4HX4G',
+        'avatar' => [
+            'user/accounts/avatars/jE57DMI2ViUhl4b.JPG' => [
+                'name' => 'jE57DMI2ViUhl4b.JPG',
+                'type' => 'image/jpeg',
+                'size' => 1187124,
+                'path' => 'user/accounts/avatars/jE57DMI2ViUhl4b.JPG'
+            ]
+        ]
+    ]
+];

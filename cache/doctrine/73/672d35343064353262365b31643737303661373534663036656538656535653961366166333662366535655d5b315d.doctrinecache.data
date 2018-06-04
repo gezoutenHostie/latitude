@@ -1,0 +1,11 @@
+1528670782
+a:2:{s:7:"content";s:574:"
+<section id="modular-hero" class="section hero parallax text-light " style="background-image: url(/latitude/user/pages/01.home/01._hero/header.jpg);">
+    <div class="image-overlay"></div>
+    <section class="container grid-lg" style="text-align: center">
+        <h1>Latitude Blockchain Services</h1>
+<p>Leaders in quality blockchain services and community management.</p>
+<p><a href="https://learn.getgrav.org" class="btn btn-primary btn-lg" target="_blank">Read the documentation</a></p>
+    </section>
+    <i id="to-start" class="pulse fa fa-angle-down"></i>
+</section>";s:12:"content_meta";N;}
